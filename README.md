@@ -1,8 +1,25 @@
-# React + Vite
+# NearbyCare
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NearbyCare is a web application that helps users find nearby healthcare facilities like clinics, pharmacies, hospitals, and more. The app uses your location to fetch nearby healthcare places and calculates the distance from you to those places in either kilometers or meters.
 
-Currently, two official plugins are available:
+## Usage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. On the home page, your location will be automatically detected.
+2. Healthcare places within a 5km radius will be shown.
+3. You can change the distance unit between kilometers and meters.
+
+## Built With
+
+- [React](https://reactjs.org/)
+- [Leaflet](https://leafletjs.com/)
+- [Axios](https://axios-http.com/)
+- [Overpass API](https://overpass-turbo.eu/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Amanuel Solomon**  
+[](https://github.com/AMANU-BLU)
