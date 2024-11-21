@@ -20,10 +20,6 @@ NearbyCare is a web application that helps users find nearby healthcare faciliti
 - [Axios](https://axios-http.com/)
 - [Overpass API](https://overpass-turbo.eu/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 **Amanuel Solomon**  
