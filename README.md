@@ -7,6 +7,11 @@ NearbyCare is a web application that helps users find nearby healthcare faciliti
 1. On the home page, your location will be automatically detected.
 2. Healthcare places within a 5km radius will be shown.
 3. You can change the distance unit between kilometers and meters.
+## Screenshot
+
+![NearbyCare Screenshot](assets/image.png)
+
+> *Example of the app displaying healthcare places nearby with distance in kilometers.*
 
 ## Built With
 
