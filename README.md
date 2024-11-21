@@ -9,7 +9,7 @@ NearbyCare is a web application that helps users find nearby healthcare faciliti
 3. You can change the distance unit between kilometers and meters.
 ## Screenshot
 
-![NearbyCare Screenshot](assets/image.png)
+![NearbyCare Screenshot](src/assets/image.png)
 
 > *Example of the app displaying healthcare places nearby with distance in kilometers.*
 
